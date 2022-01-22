@@ -17,7 +17,7 @@
 ### FEATURES
 
 - Data Pre-Processing
-- Finding the Best Classification Algorithm
+- Finding the Best Classification Algorithm (for this dataset[load_breast_cancer])
 - Model Training
 - Model Testing
 - Model Validation
