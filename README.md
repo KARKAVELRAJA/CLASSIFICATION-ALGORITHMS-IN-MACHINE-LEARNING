@@ -4,7 +4,7 @@
 
 - In this project, at first the dataset is loaded and pre-processing steps are carried out
 - Then, by using DIFFERENT CLASSIFICATION ALGORITHMS IN MACHINE LEARNING the pre-processed data are Trained and the Accuracy Score is calculated
-- Finally, Based on the Accuracy Score of Different Classification Models, the Model with MAXIMUM ACCURACY SCORE is selected for training and testing this dataset to get Maximum Precision
+- Finally, Based on the Accuracy Score of Different Classification Algorithms, the Algorithm with MAXIMUM ACCURACY SCORE is selected for training and testing this dataset to get Maximum Precision
 
 -----
 
